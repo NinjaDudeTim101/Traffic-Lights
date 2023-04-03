@@ -1,5 +1,5 @@
 // Project 5 - Controlling Traffic
-
+//Orginal file
 // define the pins that the buttons and lights are connected to:
 #define westButton 6
 #define eastButton 7
